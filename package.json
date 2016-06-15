@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngularClass/angular2-lib-starter.git"
+    "url": "git+https://github.com/AngularClass/debug-menu.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AngularClass/angular2-lib-starter/issues"
+    "url": "https://github.com/AngularClass/debug-menu/issues"
   },
-  "homepage": "https://github.com/AngularClass/angular2-lib-starter#readme",
+  "homepage": "https://github.com/AngularClass/debug-menu#readme",
   "devDependencies": {
     "@angular/common": "^2.0.0-rc.1",
     "@angular/core": "^2.0.0-rc.1",
