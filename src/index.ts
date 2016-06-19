@@ -1,1 +1,1 @@
-export {AcDebug} from './debug';
+export { AcDebug } from './debug';
