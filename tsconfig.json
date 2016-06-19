@@ -14,5 +14,8 @@
     "node_modules",
     "bower_components",
     "jspm_packages"
-  ]
+  ],
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "atom": { "rewriteTsconfig": false }
 }
